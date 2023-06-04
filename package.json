@@ -1,6 +1,6 @@
 {
   "name": "type-link",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Retrieve type definitions from a URL",
   "author": {
     "name": "bogeychan",
