@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "cache": "type-link cache ./index.ts",
+    "version": "type-link version",
+    "clear:reload": "type-link cache ./index.ts --reload",
+    "clear:cache": "type-link cache --clear",
+    "usage": "type-link usage"
+  },
+  "dependencies": {
+    "type-link": "../.."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "type-link",
+  "version": "0.0.0",
+  "description": "Retrieve type definitions from a URL",
+  "author": {
+    "name": "bogeychan",
+    "url": "https://github.com/bogeychan",
+    "email": "bogeychan@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bogeychan/type-link"
+  },
+  "type": "module",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "bin": {
+    "type-link": "index.js"
+  },
+  "files": [
+    "index.js",
+    "globals.js",
+    "lib/**"
+  ],
+  "dependencies": {
+    "json5": "^2.2.3",
+    "minimist": "^1.2.8",
+    "ts-morph": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^18.11.19"
+  },
+  "homepage": "https://github.com/bogeychan/type-link",
+  "bugs": "https://github.com/bogeychan/type-link/issues",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "nodejs"
+  ]
+}

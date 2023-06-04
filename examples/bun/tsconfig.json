@@ -1,0 +1,4 @@
+{
+	"extends": "./type-link.tsconfig.jsonc"
+	// JSON5 TEST
+}
