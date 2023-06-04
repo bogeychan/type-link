@@ -51,3 +51,11 @@ type-link cache ./index.ts --reload
 ```bash
 type-link cache --clear
 ```
+
+## Author
+
+[bogeychan](https://github.com/bogeychan)
+
+## License
+
+[MIT](LICENSE)
